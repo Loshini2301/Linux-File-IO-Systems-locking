@@ -1,12 +1,13 @@
 # Ex07-Linux-File-IO-Systems-locking
 
-## Name: Loshini.G
-## Register Number:212223220051
-## Department:IT
-# AIM:
+### Date:
+### Name: Loshini.G
+### Register Number:212223220051
+### Department:IT
+## AIM:
 To Write a C program that illustrates files copying and locking
 
-# DESIGN STEPS:
+## DESIGN STEPS:
 
 ### Step 1:
 
@@ -20,7 +21,7 @@ Write the C Program using Linux IO Systems locking
 
 Execute the C Program for the desired output. 
 
-# PROGRAM:
+## PROGRAM:
 
 ## 1.To Write a C program that illustrates files copying 
 ```c
@@ -87,7 +88,7 @@ return 0;
 
 
 
-# OUTPUT
+## OUTPUT
 ## C program that illustrates files copying
 ![out4](https://github.com/priyadharshini225/Linux-File-IO-Systems-locking/assets/138849213/e61bd543-e84f-4a37-8a26-f0162fa0e602)
 
@@ -98,5 +99,5 @@ return 0;
 
 
 
-# RESULT:
+## RESULT:
 The programs are executed successfully.
